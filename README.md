@@ -3,7 +3,7 @@
 ## Project Overview
 This project explores global COVID-19 data to identify trends in infection rates, death percentages, and vaccination progress across different countries and continents. The analysis transitions from raw data exploration in SQL to structured queries optimized for a visual dashboard in Tableau.
 
-## 📊 Dashboard Link
+## Dashboard Link
 **[View Interactive Tableau Dashboard](https://public.tableau.com/app/profile/emmanuel.garcia2166/viz/DashboardProjectCovid/Dashboard1?publish=yes)**
 
 ---
