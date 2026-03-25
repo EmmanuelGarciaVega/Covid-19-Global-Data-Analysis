@@ -45,4 +45,4 @@ Refined SQL queries specifically formatted for data visualization:
 ## How to Run
 1.  Import the datasets provided in the `/Data` folder into your SQL Server instance.
 2.  Execute the scripts in the `/Scripts` folder to generate the necessary views and filtered tables.
-3.  Connect the resulting data to Tableau or use the provided link to interact with the dashboard.
+3.  Use the provided link to interact with the dashboard.
